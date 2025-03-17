@@ -65,6 +65,9 @@ https://app.cirkitdesigner.com/project/bf4afbeb-0bac-4a18-bed0-aee398ccb99f
 <br>
 ![KY-017  Módulo Interruptor de Mercurio](https://github.com/user-attachments/assets/a6c950f2-621f-4368-a903-4646bb9347bb)
 
+![KY-017  Módulo Interruptor de Mercurio](https://github.com/user-attachments/assets/685d2212-28a8-4e31-bc59-00fcfca98623)
+
+
 
 KY-018 Modulo de Fotoresistencia
 <br>
