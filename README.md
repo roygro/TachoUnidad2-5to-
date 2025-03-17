@@ -28,6 +28,8 @@ KY-001 Sensor Temperatura
 <br>
 https://app.cirkitdesigner.com/project/bf4afbeb-0bac-4a18-bed0-aee398ccb99f
 <br>
+KY-001 Sensor Temperatura.png
+<br>
 
 
 <br>
