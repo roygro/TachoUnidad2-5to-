@@ -23,12 +23,83 @@ Link de los examnes: https://drive.google.com/drive/folders/1eu7cSfn7R2gu467BViH
 <br>
 
 # Practica
-## Ejercicio 1. Almacenamiento de Datos y Ejercicio 2: Control de Actuadores
-https://drive.google.com/drive/folders/1ePl-27OL2kEvUKwbZN0OTxKv0XK_M3MH?usp=sharing
-
-<img src="https://drive.google.com/uc?export=view&id=1mLPjL2zBQ08AsyEERT5Ue8DXpJtu-wqI" width="250"/>
-
-
+## Videos de Sensores y Actuadores (37) y MQ's (9)
+KY-001 Sensor Temperatura
+<br>
+KY-002 Sensor Vibracion
+<br>
+KY-003 Sensor de Efecto Hall
+<br>
+KY-004 Modulo Push Boton
+<br>
+KY-005 Sensor Infrarojo
+<br>
+KY-006 Modulo Buzzer Pasivo
+<br>
+KY-008 Modulo Led Laser
+<br>
+KY-010 Modulo Foto Interruptor
+<br>
+KY-011 Modulo Led 2 Colores 5mm
+<br>
+KY-012 Modulo Buzzer Activo
+<br>
+KY-013 Sensor de Temperatura Analoga
+<br>
+KY-015 Sensor de Temperatura y Humedad
+<br>
+KY-016 Modulo Led RGB
+<br>
+KY-016 Modulo Led RGB SMD
+<br>
+KY-017 Modulo Interruptor de Mercurio
+<br>
+KY-018 Modulo de Fotoresistencia
+<br>
+KY-019 Modulo de 1 Relevador
+<br>
+KY-020 Sensor de Inclinacion
+<br>
+KY-021 Modulo Mini Interruptor Magnetico
+<br>
+KY-022 Modulo Led Infrarrojo Receptor
+<br>
+KY-023 Modulo Joystick
+<br>
+KY-024 Sensor de Campo Magentico
+<br>
+KY-025 Modulo Reed Switch
+<br>
+KY-026 Sensor de Flama
+<br>
+KY-027 Modulo Luminoso de Inclinacion
+<br>
+KY-028 Sensor de Temperatura Digital
+<br>
+KY-029 Modulo Led 2 colores 3mm
+<br>
+KY-031 Sensor de impacto
+<br>
+KY-032 Sensor de obstaculos
+<br>
+KY-033 Sensor de Linea
+<br>
+KY-034 Modulo Led 7 colores
+<br>
+KY-035 Sensor Efecto Hall Analogo
+<br>
+KY-036 Sensor Tactil de Metal
+<br>
+KY-037 Modulo de microfono Sensible
+<br>
+KY-038 Sensor de Sonido Con Microfono
+<br>
+KY-039 Sensor de pulso
+<br>
+KY-040 Modulo Encoder
+<br>
+Sensor Agua
+<br>
 <br>
 <br>
 
