@@ -191,6 +191,11 @@ https://drive.google.com/drive/folders/1KAbpiqenT5lJtWc8aO3Bf-rln-2qagLP?usp=sha
 
 ## Ejercicios Soldadura (10 leds)
 
+<img src="https://github.com/user-attachments/assets/6f1599ba-9ba2-49b5-9fc0-d15b27a96a70" alt="leds1" width="300"/>
+
+<img src="https://github.com/user-attachments/assets/84ba5ace-42a3-4c50-91e6-c8029f8f8bd6" alt="leds2" width="300"/>
+
+
 
 <br>
 <br>
