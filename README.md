@@ -18,7 +18,13 @@ El estudiante manipulará sensores y actuadores conectados a hardware abierto pa
 
 # Teoria 
 ## NetAcad JavaScript Fundamentals 2
-Link de los examnes: https://drive.google.com/drive/folders/1eu7cSfn7R2gu467BViHtbbsLU_rBC2RY?usp=sharing
+
+![ef](https://github.com/user-attachments/assets/d3587f0a-67b7-4a09-a54a-c57a640b7c0a)
+![e4](https://github.com/user-attachments/assets/e8f64290-ebeb-4440-a878-bba2073a9f1e)
+![e3](https://github.com/user-attachments/assets/41539079-7985-48e0-8002-f595b73f3268)
+![e2](https://github.com/user-attachments/assets/a79a0d50-c977-490b-8ba9-7d657779b759)
+![e1](https://github.com/user-attachments/assets/af631adb-6d0a-4079-9add-1adc8a8a6f26)
+
 
 <br>
 
@@ -167,54 +173,14 @@ Sensor Agua
 <br>
 <br>
 
+## Carpeta con los videos
+En este link esta la evidencia de los videos de los sensores y actuadores, ademas de los MQ's. Estan organizados por clase
+https://drive.google.com/drive/folders/1KAbpiqenT5lJtWc8aO3Bf-rln-2qagLP?usp=sharing
+
+
 
 
 ## Ejercicios Soldadura (10 leds)
-<img src="https://github.com/user-attachments/assets/6f1599ba-9ba2-49b5-9fc0-d15b27a96a70" alt="leds1" width="300"/>
-
-<img src="https://github.com/user-attachments/assets/c81e96c9-4089-46e3-baa1-0150d90e6af8" alt="leds2" width="300"/>
-
-
-
-
-
-
-
-
-
-
-<br>
-
-## Ejercicios 4 (soldadura): Figura 2D o 3D soldada
-
-<img src="https://drive.google.com/uc?export=view&id=1V9xVktQPwy9U-pYlTwRwYl1bGNNF_KQH" width="150"/>
-
-<br>
-
-## Ejercicios en clase: Videos demostrativos
-https://drive.google.com/drive/folders/1gqua6V7e8ARg5rZH31vTtbZb9p9EKa4u?usp=sharing
-
-Led 
-https://drive.google.com/file/d/1QuqHa-oMTGUi3lCMysUC7Ql0NXc4TTlC/view?usp=drive_link
-<br>
-<img src="https://drive.google.com/uc?export=view&id=1laPLXMZ_BQoNBL7uRaonhujvCDOh62-k" width="300"/>
-
-
-
-Mosquito
-https://drive.google.com/file/d/1L8WgstoiTg3a4qL-wF9lP0yLSnlwfL2g/view?usp=drive_link
-<br>
-<img src="https://drive.google.com/uc?export=view&id=1UcwZwNKzl7EGiWaHsa6dv3bbViDtzRWV" width="300"/>
-
-
-Configuracion 
-https://drive.google.com/file/d/1Me7Rsbz98Ar3bXHGJIkY-U8QNmcpV3p_/view?usp=drive_link
-
-CRUD
-https://drive.google.com/file/d/141pot45iMK5Y158ukgjdJeGLtwYULq8H/view?usp=drive_link
-<br>
-<img src="https://drive.google.com/uc?export=view&id=1nRM1n2rLW-5PH74bbsFa2cvMy7VHTKGp" width="300"/>
-
 
 
 <br>
