@@ -60,6 +60,11 @@ KY-006 Modulo Buzzer Pasivo
 <br>
 KY-008 Modulo Led Laser
 <br>
+https://app.cirkitdesigner.com/project/24995980-5815-4946-b30f-0e1966f138ac
+<br>
+![KY-008  Modulo Led Laser](https://github.com/user-attachments/assets/42d1b2ad-df1b-4bd4-bfa4-df5ea6324c84)
+
+
 KY-010 Modulo Foto Interruptor
 <br>
 https://app.cirkitdesigner.com/project/7a9c0956-091e-4ec5-aef4-7cfa9d55d2a9
@@ -68,6 +73,10 @@ https://app.cirkitdesigner.com/project/7a9c0956-091e-4ec5-aef4-7cfa9d55d2a9
 
 KY-011 Modulo Led 2 Colores 5mm
 <br>
+https://app.cirkitdesigner.com/project/63f93267-e574-4069-aa49-5b6a8e6fe401
+<br>
+![KY-011  Modulo Led 2 Colores 5mm](https://github.com/user-attachments/assets/37d3905e-0db4-4426-8ad2-e5a2645be7e9)
+
 KY-012 Modulo Buzzer Activo
 <br>
 KY-013 Sensor de Temperatura Analoga
