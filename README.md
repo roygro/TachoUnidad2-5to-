@@ -90,10 +90,14 @@ KY-026 Sensor de Flama
 <br>
 KY-027 Modulo Luminoso de Inclinacion
 <br>
-https://app.cirkitdesigner.com/project/13b8922e-1050-45b8-a2fc-2e322187b6de
+https://app.cirkitdesigner.com/project/8d4edc49-8547-490e-96c2-1a2a6651d2b9
 <br>
 
 <img src="[https://github.com/roygro/TachoUnidad2-5to-/blob/360610b47412a7c462b40fd09b0f76c135879067/Imagenes%20diagramas/KY-001%20Sensor%20Temperatura.png](https://app.cirkitdesigner.com/project/8d4edc49-8547-490e-96c2-1a2a6651d2b9)" width="300"/>
+
+![KY-027  Módulo Luminoso de Inclinación](https://github.com/user-attachments/assets/9e0aca68-38f2-4180-aaf5-3ec66cc39398)
+
+
 <br>
 KY-028 Sensor de Temperatura Digital
 <br>
