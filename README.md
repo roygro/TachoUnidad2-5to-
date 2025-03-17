@@ -25,7 +25,10 @@ Link de los examnes: https://drive.google.com/drive/folders/1eu7cSfn7R2gu467BViH
 # Practica
 ## Videos de Sensores y Actuadores (37) y MQ's (9)
 KY-001 Sensor Temperatura
+<br>
 https://app.cirkitdesigner.com/project/bf4afbeb-0bac-4a18-bed0-aee398ccb99f
+<br>
+
 
 <br>
 <br>
