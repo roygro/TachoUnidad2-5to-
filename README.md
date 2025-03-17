@@ -63,7 +63,6 @@ KY-017 Modulo Interruptor de Mercurio
 <br>
 https://app.cirkitdesigner.com/project/bf4afbeb-0bac-4a18-bed0-aee398ccb99f
 <br>
-![KY-017  Módulo Interruptor de Mercurio](https://github.com/user-attachments/assets/a6c950f2-621f-4368-a903-4646bb9347bb)
 
 ![KY-017  Módulo Interruptor de Mercurio](https://github.com/user-attachments/assets/685d2212-28a8-4e31-bc59-00fcfca98623)
 
@@ -96,7 +95,8 @@ KY-027 Modulo Luminoso de Inclinacion
 <br>
 https://app.cirkitdesigner.com/project/8d4edc49-8547-490e-96c2-1a2a6651d2b9
 <br>
-![KY-027  Módulo Luminoso de Inclinación](https://github.com/user-attachments/assets/9e0aca68-38f2-4180-aaf5-3ec66cc39398)
+
+![KY-027  Módulo Luminoso de Inclinación](https://github.com/user-attachments/assets/6887a1b3-0913-4c27-8ca0-42e06f12c7c6)
 
 
 <br>
