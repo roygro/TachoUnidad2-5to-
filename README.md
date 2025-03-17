@@ -172,7 +172,11 @@ Sensor Agua
 ## Ejercicios Soldadura (10 leds)
 <img src="https://github.com/user-attachments/assets/6f1599ba-9ba2-49b5-9fc0-d15b27a96a70" alt="leds1" width="300"/>
 
-<img src="(https://github.com/user-attachments/assets/c81e96c9-4089-46e3-baa1-0150d90e6af8" alt="leds2" width="300"/>
+<img src="https://github.com/user-attachments/assets/c81e96c9-4089-46e3-baa1-0150d90e6af8" alt="leds2" width="300"/>
+
+
+
+
 
 
 
