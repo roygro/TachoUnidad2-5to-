@@ -35,6 +35,11 @@ https://app.cirkitdesigner.com/project/bf4afbeb-0bac-4a18-bed0-aee398ccb99f
 <br>
 KY-002 Sensor Vibracion
 <br>
+https://app.cirkitdesigner.com/project/3a10df53-5ca1-46e6-8096-a4d7608bdf0a
+<br>
+
+![KY-002 Sensor Vibracion](https://github.com/user-attachments/assets/ce9f8666-8ef6-4b3a-95e6-63cf30a72253)
+
 KY-003 Sensor de Efecto Hall
 <br>
 KY-004 Modulo Push Boton
@@ -47,6 +52,10 @@ KY-008 Modulo Led Laser
 <br>
 KY-010 Modulo Foto Interruptor
 <br>
+https://app.cirkitdesigner.com/project/7a9c0956-091e-4ec5-aef4-7cfa9d55d2a9
+<br>
+![KY-010  Modulo Foto Interruptor](https://github.com/user-attachments/assets/2aa8deac-3570-45b3-8470-e6a763cb2dd9)
+
 KY-011 Modulo Led 2 Colores 5mm
 <br>
 KY-012 Modulo Buzzer Activo
@@ -59,6 +68,10 @@ KY-016 Modulo Led RGB
 <br>
 KY-016 Modulo Led RGB SMD
 <br>
+https://app.cirkitdesigner.com/project/8e27a834-9aee-4385-b808-4930e9b1a2b6
+<br>
+![KY-016  Modulo Led RGB](https://github.com/user-attachments/assets/cd6b45d4-47f6-47f5-997c-ed36128deba2)
+
 KY-017 Modulo Interruptor de Mercurio
 <br>
 https://app.cirkitdesigner.com/project/bf4afbeb-0bac-4a18-bed0-aee398ccb99f
@@ -77,8 +90,8 @@ KY-020 Sensor de Inclinacion
 https://app.cirkitdesigner.com/project/13b8922e-1050-45b8-a2fc-2e322187b6de
 <br>
 ![KY-020 Sensor de Inclinacion](https://github.com/user-attachments/assets/f591d7b4-e1ce-4944-bdac-1340cf6b7f30)
-
 <br>
+
 KY-021 Modulo Mini Interruptor Magnetico
 <br>
 KY-022 Modulo Led Infrarrojo Receptor
@@ -118,7 +131,22 @@ KY-036 Sensor Tactil de Metal
 <br>
 KY-037 Modulo de microfono Sensible
 <br>
+https://app.cirkitdesigner.com/project/de886a7f-661b-4683-b65b-b606d04ecb66
+<br>
+
+![KY-037  Módulo Micrófono Sensible](https://github.com/user-attachments/assets/ee7f5b84-db8e-475d-9a4c-35abf2ebd6af)
+
+<br>
+
 KY-038 Sensor de Sonido Con Microfono
+<br>
+https://app.cirkitdesigner.com/project/15c5c56b-b513-4db8-8aca-602c856242fc
+<br>
+![KY-038 Sensor de Sonido Con Microfono](https://github.com/user-attachments/assets/ea320cb7-5269-4346-a5b1-f3d5eb270f60)
+
+
+
+
 <br>
 KY-039 Sensor de pulso
 <br>
