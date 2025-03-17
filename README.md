@@ -17,7 +17,7 @@ El estudiante manipulará sensores y actuadores conectados a hardware abierto pa
 <br>
 
 # Teoria 
-## NetAcad Python Fundamentals 2
+## NetAcad JavaScript Fundamentals 2
 Link de los examnes: https://drive.google.com/drive/folders/1eu7cSfn7R2gu467BViHtbbsLU_rBC2RY?usp=sharing
 
 <br>
@@ -157,9 +157,6 @@ https://app.cirkitdesigner.com/project/15c5c56b-b513-4db8-8aca-602c856242fc
 <br>
 ![KY-038 Sensor de Sonido Con Microfono](https://github.com/user-attachments/assets/ea320cb7-5269-4346-a5b1-f3d5eb270f60)
 
-
-
-
 <br>
 KY-039 Sensor de pulso
 <br>
@@ -172,10 +169,13 @@ Sensor Agua
 
 
 
-## Ejercicios 3 (soldadura): Circuito funcional en placa fenólica
+## Ejercicios Soldadura (10 leds)
+![leds1](https://github.com/user-attachments/assets/6f1599ba-9ba2-49b5-9fc0-d15b27a96a70)
+![leds2](https://github.com/user-attachments/assets/c81e96c9-4089-46e3-baa1-0150d90e6af8)
 
-<img src="https://drive.google.com/uc?export=view&id=1L4AzfGDi5IXGYXrK-AvPs4vF6VzBZmTA" width="150"/>
-<img src="https://drive.google.com/uc?export=view&id=1Dt4lalCZgzDO0QtzSdBGyJ-3q4eMAflH" width="150"/>
+
+
+
 
 <br>
 
