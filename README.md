@@ -26,10 +26,10 @@ Link de los examnes: https://drive.google.com/drive/folders/1eu7cSfn7R2gu467BViH
 ## Videos de Sensores y Actuadores (37) y MQ's (9)
 KY-001 Sensor Temperatura
 <br>
-https://app.cirkitdesigner.com/project/bf4afbeb-0bac-4a18-bed0-aee398ccb99f
+[https://app.cirkitdesigner.com/project/bf4afbeb-0bac-4a18-bed0-aee398ccb99f](https://app.cirkitdesigner.com/project/0f227a4e-3b8d-46ec-854f-92f668688293)
 <br>
+![KY-001  Sensor de Temperatura](https://github.com/user-attachments/assets/57a2411c-3a76-48ec-a1ca-a59faccba85a)
 
-<img src="https://github.com/roygro/TachoUnidad2-5to-/blob/360610b47412a7c462b40fd09b0f76c135879067/Imagenes%20diagramas/KY-001%20Sensor%20Temperatura.png" width="300"/>
 
 <br>
 <br>
@@ -44,6 +44,10 @@ KY-003 Sensor de Efecto Hall
 <br>
 KY-004 Modulo Push Boton
 <br>
+https://app.cirkitdesigner.com/project/0e5d5684-4795-4d09-ab76-a30e35d31ddf
+<br>
+![KY-004  Modulo Push Boton](https://github.com/user-attachments/assets/42f526ea-753f-41b1-ae27-0ff7bc5a601e)
+
 KY-005 Sensor Infrarojo
 <br>
 KY-006 Modulo Buzzer Pasivo
@@ -64,9 +68,13 @@ KY-013 Sensor de Temperatura Analoga
 <br>
 KY-015 Sensor de Temperatura y Humedad
 <br>
-KY-016 Modulo Led RGB
-<br>
 KY-016 Modulo Led RGB SMD
+<br>
+https://app.cirkitdesigner.com/project/ae088e1c-23d8-46c6-b621-82328457c7d5
+<br>
+![KY-009  Modulo Led RGB SMD](https://github.com/user-attachments/assets/4a2ffb5d-a422-450d-aaba-586d1633a664)
+
+KY-016 Modulo Led RGB 
 <br>
 https://app.cirkitdesigner.com/project/8e27a834-9aee-4385-b808-4930e9b1a2b6
 <br>
@@ -115,6 +123,11 @@ https://app.cirkitdesigner.com/project/8d4edc49-8547-490e-96c2-1a2a6651d2b9
 <br>
 KY-028 Sensor de Temperatura Digital
 <br>
+https://app.cirkitdesigner.com/project/c0a48586-bac6-4092-9e72-38878f1ba706
+<br>
+
+![KY-028  Sensor de Temperatura Digital](https://github.com/user-attachments/assets/cb70471f-0bf4-442f-ab1c-2a56352b86ae)
+
 KY-029 Modulo Led 2 colores 3mm
 <br>
 KY-031 Sensor de impacto
