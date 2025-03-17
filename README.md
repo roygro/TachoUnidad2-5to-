@@ -28,6 +28,7 @@ KY-001 Sensor Temperatura
 https://app.cirkitdesigner.com/project/bf4afbeb-0bac-4a18-bed0-aee398ccb99f
 
 <br>
+<br>
 KY-002 Sensor Vibracion
 <br>
 KY-003 Sensor de Efecto Hall
