@@ -32,9 +32,6 @@ https://app.cirkitdesigner.com/project/bf4afbeb-0bac-4a18-bed0-aee398ccb99f
 <img src="https://github.com/roygro/TachoUnidad2-5to-/blob/360610b47412a7c462b40fd09b0f76c135879067/Imagenes%20diagramas/KY-001%20Sensor%20Temperatura.png" width="300"/>
 
 <br>
-
-
-<br>
 <br>
 KY-002 Sensor Vibracion
 <br>
@@ -74,6 +71,11 @@ KY-019 Modulo de 1 Relevador
 <br>
 KY-020 Sensor de Inclinacion
 <br>
+https://app.cirkitdesigner.com/project/13b8922e-1050-45b8-a2fc-2e322187b6de
+<br>
+
+<img src="[https://github.com/roygro/TachoUnidad2-5to-/blob/360610b47412a7c462b40fd09b0f76c135879067/Imagenes%20diagramas/KY-001%20Sensor%20Temperatura.png](https://app.cirkitdesigner.com/project/13b8922e-1050-45b8-a2fc-2e322187b6de)" width="300"/>
+<br>
 KY-021 Modulo Mini Interruptor Magnetico
 <br>
 KY-022 Modulo Led Infrarrojo Receptor
@@ -87,6 +89,11 @@ KY-025 Modulo Reed Switch
 KY-026 Sensor de Flama
 <br>
 KY-027 Modulo Luminoso de Inclinacion
+<br>
+https://app.cirkitdesigner.com/project/13b8922e-1050-45b8-a2fc-2e322187b6de
+<br>
+
+<img src="[https://github.com/roygro/TachoUnidad2-5to-/blob/360610b47412a7c462b40fd09b0f76c135879067/Imagenes%20diagramas/KY-001%20Sensor%20Temperatura.png](https://app.cirkitdesigner.com/project/8d4edc49-8547-490e-96c2-1a2a6651d2b9)" width="300"/>
 <br>
 KY-028 Sensor de Temperatura Digital
 <br>
