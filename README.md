@@ -28,7 +28,9 @@ KY-001 Sensor Temperatura
 <br>
 https://app.cirkitdesigner.com/project/bf4afbeb-0bac-4a18-bed0-aee398ccb99f
 <br>
-Imagenes diagramas/KY-001 Sensor Temperatura.png
+
+<img src="https://github.com/roygro/TachoUnidad2-5to-/blob/360610b47412a7c462b40fd09b0f76c135879067/Imagenes%20diagramas/KY-001%20Sensor%20Temperatura.png" width="300"/>
+
 <br>
 
 
