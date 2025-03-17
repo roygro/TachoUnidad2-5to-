@@ -29,7 +29,7 @@ El estudiante manipulará sensores y actuadores conectados a hardware abierto pa
 <br>
 
 # Practica
-## Videos de Sensores y Actuadores (37) y MQ's (9)
+## Diagramas de Sensores y Actuadores (37) y MQ's (9)
 KY-001 Sensor Temperatura
 <br>
 [https://app.cirkitdesigner.com/project/bf4afbeb-0bac-4a18-bed0-aee398ccb99f](https://app.cirkitdesigner.com/project/0f227a4e-3b8d-46ec-854f-92f668688293)
