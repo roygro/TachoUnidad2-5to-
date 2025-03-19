@@ -175,26 +175,48 @@ https://app.cirkitdesigner.com/project/b1aab600-7fb8-46eb-82dd-3706823bfa40
 
 KY-022 Modulo Led Infrarrojo Receptor
 <br>
+https://app.cirkitdesigner.com/project/a96984b9-fe19-4c25-aed8-a1f6ea9a5d7b
 
 <br>
+
+![image](https://github.com/user-attachments/assets/9e6b5a95-d2c1-43fd-8622-17d415486b47)
+
 KY-023 Modulo Joystick
 <br>
+https://app.cirkitdesigner.com/project/751a84eb-fe47-4c3a-a641-18b0f5d13ccb
 
 <br>
+
+![image](https://github.com/user-attachments/assets/777a6b33-5ba4-4813-87e9-ff1571eb6a8c)
+
 
 KY-024 Sensor de Campo Magentico
 <br>
+https://app.cirkitdesigner.com/project/1756d9dc-ddab-4d57-9188-6b979c77427d
 
 <br>
+
+![image](https://github.com/user-attachments/assets/189efa35-d6b8-48b2-a58c-c0f8369733cf)
+
 
 
 KY-025 Modulo Reed Switch
 <br>
+https://app.cirkitdesigner.com/project/02470cb3-9928-423f-b551-de9f55688d50
 
 <br>
+
+![image](https://github.com/user-attachments/assets/c27d941a-8caa-4236-8267-6b49be73313f)
+
 
 KY-026 Sensor de Flama
 <br>
+https://app.cirkitdesigner.com/project/faa24294-51ab-43c2-a8cb-b4b74cbee012
+
+<br>
+
+![image](https://github.com/user-attachments/assets/16d424c4-edb9-4cc2-844c-adcb12cc0229)
+
 KY-027 Modulo Luminoso de Inclinacion
 <br>
 https://app.cirkitdesigner.com/project/8d4edc49-8547-490e-96c2-1a2a6651d2b9
@@ -213,18 +235,61 @@ https://app.cirkitdesigner.com/project/c0a48586-bac6-4092-9e72-38878f1ba706
 
 KY-029 Modulo Led 2 colores 3mm
 <br>
+https://app.cirkitdesigner.com/project/9d970a35-9aad-4831-b53a-c0315a9514c8
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c6e17dfc-e317-40b0-8c41-e944e302de92)
+
+
 KY-031 Sensor de impacto
 <br>
+https://app.cirkitdesigner.com/project/f4f90cdf-c413-4c3b-a5c9-5dd020535c0c
+
+<br>
+
+![image](https://github.com/user-attachments/assets/406358d9-1d04-4e99-985b-118d328d335a)
+
 KY-032 Sensor de obstaculos
 <br>
+https://app.cirkitdesigner.com/project/33043d09-73dd-46f6-a8b7-e1c2aac7ed45
+
+<br>
+
+![image](https://github.com/user-attachments/assets/7c6094db-d49b-4b6a-ae27-60576f06e9cd)
+
 KY-033 Sensor de Linea
 <br>
+https://app.cirkitdesigner.com/project/a86e2af6-ff6e-419c-8cd0-c08053ab6ecf
+
+<br>
+
+![image](https://github.com/user-attachments/assets/685427ba-e1c8-4e2d-8987-694c7f40dc1d)
+
 KY-034 Modulo Led 7 colores
 <br>
+https://app.cirkitdesigner.com/project/9ebf917c-30ab-45ed-9237-b72813dcb244
+
+<br>
+
+![image](https://github.com/user-attachments/assets/bd615523-f85b-4e99-8711-c3a6a1ab174f)
+
 KY-035 Sensor Efecto Hall Analogo
 <br>
+https://app.cirkitdesigner.com/project/29aadb88-97c2-4560-93b8-a03b476e2969
+
+<br>
+
+![image](https://github.com/user-attachments/assets/473f4b29-2a9f-45af-8f40-39e39db424c1)
+
 KY-036 Sensor Tactil de Metal
 <br>
+https://app.cirkitdesigner.com/project/97900633-6551-4f50-9aa4-1fb55823d680
+
+<br>
+
+![image](https://github.com/user-attachments/assets/f676f064-44e9-4c38-8ef0-fc9bd7fc5d84)
+
 KY-037 Modulo de microfono Sensible
 <br>
 https://app.cirkitdesigner.com/project/de886a7f-661b-4683-b65b-b606d04ecb66
@@ -243,11 +308,26 @@ https://app.cirkitdesigner.com/project/15c5c56b-b513-4db8-8aca-602c856242fc
 <br>
 KY-039 Sensor de pulso
 <br>
+https://app.cirkitdesigner.com/project/d7a07067-fca5-4a32-8948-a0df007d6f27
+
+<br>
+
+![image](https://github.com/user-attachments/assets/edcd9ca1-8251-4475-a3ec-c5cce9b927b5)
+
+
 KY-040 Modulo Encoder
 <br>
+
+![image](https://github.com/user-attachments/assets/f757df9b-c879-430b-a37f-71ac190ce0eb)
+
 Sensor Agua
 <br>
+https://app.cirkitdesigner.com/project/d740fa30-274c-4bbc-8d7a-16eee0d64335
+
 <br>
+
+![image](https://github.com/user-attachments/assets/77b6d01c-879b-4fcc-95c3-dc94ee1a7f9d)
+
 <br>
 
 ## Carpeta con los videos
