@@ -48,6 +48,10 @@ https://app.cirkitdesigner.com/project/3a10df53-5ca1-46e6-8096-a4d7608bdf0a
 
 KY-003 Sensor de Efecto Hall
 <br>
+https://app.cirkitdesigner.com/project/b7b457e6-f0b1-454c-b4c6-99836820226b
+<br>
+![image](https://github.com/user-attachments/assets/a405f68f-f32f-4333-8f5f-5220097bf19f)
+
 KY-004 Modulo Push Boton
 <br>
 https://app.cirkitdesigner.com/project/0e5d5684-4795-4d09-ab76-a30e35d31ddf
@@ -56,8 +60,19 @@ https://app.cirkitdesigner.com/project/0e5d5684-4795-4d09-ab76-a30e35d31ddf
 
 KY-005 Sensor Infrarojo
 <br>
+https://app.cirkitdesigner.com/project/093d26b5-63dd-4cea-81a5-63782a15f4c9
+
+<brs>
+  
+![image](https://github.com/user-attachments/assets/f0d5c17f-8027-428f-8139-0bd1fff41d63)
+
 KY-006 Modulo Buzzer Pasivo
 <br>
+https://app.cirkitdesigner.com/project/ec05f734-d11e-4b59-beff-7e2f58eb0605
+<br>
+
+![image](https://github.com/user-attachments/assets/6479ed83-6503-487c-bd23-937d28a8f84b)
+
 KY-008 Modulo Led Laser
 <br>
 https://app.cirkitdesigner.com/project/24995980-5815-4946-b30f-0e1966f138ac
@@ -79,10 +94,30 @@ https://app.cirkitdesigner.com/project/63f93267-e574-4069-aa49-5b6a8e6fe401
 
 KY-012 Modulo Buzzer Activo
 <br>
+https://app.cirkitdesigner.com/project/d704023a-5470-4cc4-a0ee-4d7f1e9504e0
+
+<br>
+
+![image](https://github.com/user-attachments/assets/0ebae46d-beae-475e-864d-99d79e82e29c)
+
+
 KY-013 Sensor de Temperatura Analoga
 <br>
+https://app.cirkitdesigner.com/project/fe8aee1a-0ccb-4e0e-8c2b-aee7d45a7078
+<br>
+
+![image](https://github.com/user-attachments/assets/1fcde16e-c2b9-449a-a7b2-626aa95adc3d)
+
+
 KY-015 Sensor de Temperatura y Humedad
 <br>
+https://app.cirkitdesigner.com/project/c2f6da22-f9b7-4fa2-8292-428755443709
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a8e53b81-1e09-4243-865f-cacee31109c0)
+
+
 KY-016 Modulo Led RGB SMD
 <br>
 https://app.cirkitdesigner.com/project/ae088e1c-23d8-46c6-b621-82328457c7d5
@@ -106,10 +141,24 @@ https://app.cirkitdesigner.com/project/bf4afbeb-0bac-4a18-bed0-aee398ccb99f
 
 KY-018 Modulo de Fotoresistencia
 <br>
+https://app.cirkitdesigner.com/project/452ef2f5-9376-4db3-9d45-30d0dc7171c2
+
+<br>
+
+![image](https://github.com/user-attachments/assets/9d1559a4-a3c6-4e32-a472-59020be3bda4)
+
+
 KY-019 Modulo de 1 Relevador
 <br>
+https://app.cirkitdesigner.com/project/f41e5206-ffe3-425e-9c91-795022df4daf
+
+<br>
+
+![image](https://github.com/user-attachments/assets/475b68b1-a5fb-45f3-a543-08ded6b86d13)
+
 KY-020 Sensor de Inclinacion
 <br>
+
 https://app.cirkitdesigner.com/project/13b8922e-1050-45b8-a2fc-2e322187b6de
 <br>
 ![KY-020 Sensor de Inclinacion](https://github.com/user-attachments/assets/f591d7b4-e1ce-4944-bdac-1340cf6b7f30)
@@ -117,14 +166,33 @@ https://app.cirkitdesigner.com/project/13b8922e-1050-45b8-a2fc-2e322187b6de
 
 KY-021 Modulo Mini Interruptor Magnetico
 <br>
+https://app.cirkitdesigner.com/project/b1aab600-7fb8-46eb-82dd-3706823bfa40
+
+<br>
+
+![image](https://github.com/user-attachments/assets/7a278914-0005-44c3-8c04-6055d0afc4fa)
+
+
 KY-022 Modulo Led Infrarrojo Receptor
+<br>
+
 <br>
 KY-023 Modulo Joystick
 <br>
+
+<br>
+
 KY-024 Sensor de Campo Magentico
 <br>
+
+<br>
+
+
 KY-025 Modulo Reed Switch
 <br>
+
+<br>
+
 KY-026 Sensor de Flama
 <br>
 KY-027 Modulo Luminoso de Inclinacion
